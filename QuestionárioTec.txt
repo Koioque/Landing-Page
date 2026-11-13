@@ -1,19 +1,23 @@
 Questionário técnico — WordPress Playground
 
-**Equipe / Título do TCC:** DataSeeker — Plataforma de organização e visualização de dados.
+**Equipe: Kaique Lopes Martins e Lorenzo Marques Alves
+
+Título do TCC: 
+
+DataSeeker — Plataforma de organização e visualização de dados.
 
 ## Parte I — Conhecimentos técnicos
 
-1. **B** — O bloco Grupo reúne elementos e permite definir fundo, espaçamento e alinhamento da seção.
-2. **B** — Os Estilos Globais padronizam as cores e fontes do site.
-3. **A** — O bloco Colunas organiza conteúdos lado a lado com proporções ajustáveis.
-4. **B** — É a alternativa esperada pelo questionário: exportar o projeto evita a perda do trabalho no ambiente temporário.
+1. B — O bloco Grupo reúne elementos e permite definir fundo, espaçamento e alinhamento da seção.
+2. B — Os Estilos Globais padronizam as cores e fontes do site.
+3. A — O bloco Colunas organiza conteúdos lado a lado com proporções ajustáveis.
+4. B — É a alternativa esperada pelo questionário: exportar o projeto evita a perda do trabalho no ambiente temporário.
 
 ## Parte II — Aplicação prática
 
-5. **B** — Um CTA claro facilita consultar o acervo ou agendar a retirada.
-6. **A** — O passo a passo e as disciplinas disponíveis apresentam informações relevantes ao aluno.
-7. **B** — Sem uma ação principal fácil de encontrar, o fluxo de conversão fica comprometido.
+5. B — Um CTA claro facilita consultar o acervo ou agendar a retirada.
+6. A — O passo a passo e as disciplinas disponíveis apresentam informações relevantes ao aluno.
+7. B — Sem uma ação principal fácil de encontrar, o fluxo de conversão fica comprometido.
 
 ## Parte III — Respostas discursivas
 
