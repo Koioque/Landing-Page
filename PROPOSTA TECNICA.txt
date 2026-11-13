@@ -1,0 +1,39 @@
+PROPOSTA TÉCNICA - LANDING PAGE DATASEEKER
+
+Integrantes: Lorenzo Marques Alves e Kaique Lopes Martins
+Data: 13/11/2026
+Projeto: DataSeeker - Plataforma de organização e visualização de dados
+Ambiente: WordPress Playground, editor Gutenberg e tema Twenty Twenty-Five
+
+OBJETIVO E PÚBLICO
+
+Apresentar o DataSeeker a pessoas e equipes que precisam organizar informações, consultar indicadores e acompanhar objetivos. A página explica a proposta da plataforma e conduz o visitante à escolha entre acesso pessoal e corporativo.
+
+IDENTIDADE VISUAL
+
+A página utiliza fundo escuro, texto claro e destaques roxos. As cores principais são #0b0d1b, #f5f5ff e #8844ee. A fonte Manrope mantém a leitura simples e legível. Cores e tipografia ficam nos Estilos Globais para manter a mesma aparência em todas as seções.
+
+ORGANIZAÇÃO DA PÁGINA
+
+1. Cabeçalho: identifica a marca e oferece links para as seções, utilizando Grupo e Parágrafos.
+
+2. Apresentação: utiliza Capa, Título, Parágrafo e Botões para explicar a proposta e destacar a ação “Cadastre-se”.
+
+3. Recursos: utiliza Grupo e Colunas em três divisões para apresentar dashboards, metas e equipes.
+
+4. Como funciona: utiliza Mídia e Texto para combinar uma imagem ilustrativa de painel com três passos de uso.
+
+5. Escolha de perfil: utiliza Grupo, Colunas e Botões para direcionar aos acessos pessoal e corporativo.
+
+6. Rodapé: reforça a marca e informa que a página é um protótipo acadêmico.
+
+Essa sequência apresenta a solução, explica seus benefícios e conduz o visitante à ação. Os títulos organizam a leitura. Em telas menores, os blocos podem ficar um abaixo do outro para facilitar a visualização.
+
+OBJETIVO DE CONVERSÃO
+
+O caminho proposto é: conhecer a plataforma, clicar em “Cadastre-se”, escolher o perfil e acessar a página demonstrativa de cadastro.
+
+Os botões apontam para páginas existentes, que explicam o próximo passo e oferecem retorno à apresentação. Neste protótipo, não há formulário funcional, criação de contas ou coleta de dados pessoais. A integração com o sistema principal permanece fora do escopo.
+
+A imagem do painel é ilustrativa. Não são apresentados números de usuários, resultados ou depoimentos fictícios como prova social. O roteiro permite imagens institucionais como alternativa a métricas e depoimentos.
+
