@@ -1,0 +1,38 @@
+Questionário técnico — WordPress Playground
+
+**Equipe / Título do TCC:** DataSeeker — Plataforma de organização e visualização de dados.
+
+## Parte I — Conhecimentos técnicos
+
+1. **B** — O bloco Grupo reúne elementos e permite definir fundo, espaçamento e alinhamento da seção.
+2. **B** — Os Estilos Globais padronizam as cores e fontes do site.
+3. **A** — O bloco Colunas organiza conteúdos lado a lado com proporções ajustáveis.
+4. **B** — É a alternativa esperada pelo questionário: exportar o projeto evita a perda do trabalho no ambiente temporário.
+
+## Parte II — Aplicação prática
+
+5. **B** — Um CTA claro facilita consultar o acervo ou agendar a retirada.
+6. **A** — O passo a passo e as disciplinas disponíveis apresentam informações relevantes ao aluno.
+7. **B** — Sem uma ação principal fácil de encontrar, o fluxo de conversão fica comprometido.
+
+## Parte III — Respostas discursivas
+
+### Q8 — Justificativa dos blocos
+
+Na proposta do DataSeeker, o bloco Grupo organiza a seção de recursos com fundo e espaçamento padronizados. O bloco Colunas apresenta dashboards, metas e equipes de maneira clara. O bloco Mídia e Texto combina uma imagem ilustrativa da plataforma com a explicação dos benefícios. Os botões direcionam ao fluxo de cadastro. A identidade visual utiliza fundo escuro e destaques em roxo, configurados nos Estilos Globais. No protótipo WordPress, a fonte Manrope, disponível no tema, mantém uma apresentação limpa e legível.
+
+### Q9 — Objetivo de conversão
+
+O principal objetivo de conversão é levar o visitante ao cadastro no DataSeeker. A seção inicial apresenta a proposta da plataforma e o botão “Cadastre-se”. Em seguida, a página explica os recursos e como eles ajudam na organização e visualização dos dados. Ao final, o visitante escolhe entre os perfis pessoal e corporativo. No protótipo acadêmico, os botões abrem páginas demonstrativas do próximo passo, sem coletar dados pessoais.
+
+## Proposta técnica resumida
+
+A landing page apresenta o DataSeeker a pessoas e equipes que precisam organizar e acompanhar informações. Sua estrutura é:
+
+**Cabeçalho → Capa com apresentação e CTA → recursos em Colunas → funcionamento em Mídia e Texto → escolha de perfil e CTA final → rodapé.**
+
+Os blocos nativos permanecem editáveis no Gutenberg. A proposta utiliza textos curtos, contraste legível e organização responsiva. As ilustrações são demonstrativas, e a integração ao sistema principal não faz parte deste protótipo.
+
+## Entrega
+
+Anexar o questionário e o ZIP exportado do WordPress Playground. Preencher a identificação da equipe e a data de entrega na versão apresentada à escola.
